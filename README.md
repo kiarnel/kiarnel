@@ -9,7 +9,5 @@
 # VCS Stack
 [![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=GitHub&logoColor=black)]()
   
-# Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiarnel)](https://github.com/kiarnel/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarnel&layout=compact)](https://github.com/kiarnel/github-readme-stats)
 
 </div>
