@@ -1,7 +1,7 @@
 <div align=center>
   
 # Tech Stack
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)]()  [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=black)]()  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)]()  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=pink)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)]()  [![R](https://img.shields.io/badge/R-FF9E0F?style=flat-square&logo=R&logoColor=black)]()  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)]() [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)]()  [![MySQL](https://img.shields.io/badge/MySQL-3C5280?style=flat-square&logo=MySQL&logoColor=black)]()
 
 # IDE Stack
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=black)]() [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=black)]()  [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=black)]()
